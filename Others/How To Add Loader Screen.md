@@ -123,32 +123,32 @@
 
 ######## Add right after <body> tag starts
 
-  <div id="loader">
+   <div id="loader">
     <div id="wrapperload">
       <div class="elem">
-        <p style="font-weight: bold; color: #f99c84;">Behold! This is no ordinary developer!</p>
+        <p style="font-weight: bold; color: #f99c84;">Hey! This Is Not Your Regular Developer!</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #56adfe;">Welcome to a realm of boundless possibilities</p>
+        <p style="font-weight: bold; color: #56adfe;">Lets Explore Something New Today, Together</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #00ddff;">Enter the world of relentless innovation</p>
+        <p style="font-weight: bold; color: #00ddff;">Enter The World of Relentless Innovation</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #4848ff;">Unleash the power of a Software Engineer</p>
+        <p style="font-weight: bold; color: #4848ff;">Unleash The Power of Software Engineering</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #F2AE36;">Embark on a journey as a Robotics Enthusiast</p>
+        <p style="font-weight: bold; color: #F2AE36;">Embark on a Journey with a Robotics Enthusiast</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #ffe227;">Explore the uncharted territories as a Researcher
+        <p style="font-weight: bold; color: #ffe227;">Explore The Uncharted Territories of an AI Researcher
         </p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #ff00ff;">Master the art of IoT Programming</p>
+        <p style="font-weight: bold; color: #ff00ff;">This is Eftakhar Ahmed Arnob</p>
       </div>
       <div class="elem">
-        <p style="font-weight: bold; color: #E4B286;">Welcome to a realm where dreams turn into reality
+        <p style="font-weight: bold; color: #E4B286;">And Welcome to my world!
         </p>
       </div>
     </div>
