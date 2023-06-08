@@ -1,0 +1,27 @@
+<script>
+  // Get the body element
+  var body = document.getElementsByTagName('body')[0];
+
+  // Hide all the child elements of the body except for the loader
+  for (var i = 0; i < body.children.length; i++) {
+    var child = body.children[i];
+    if (child.id !== 'loader') {
+      child.style.display = 'none';
+    }
+  }
+
+</script>
+<script>
+  setTimeout(function () {
+    var bodyChildren = document.body.children;
+
+    for (var i = 0; i < bodyChildren.length; i++) {
+      var child = bodyChildren[i];
+      if (child.id !== 'loader') {
+        child.style.display = 'block';
+      }
+    }
+
+    document.getElementById('loader').style.display = 'none';
+  }, 15000);
+</script>
